@@ -1,2 +1,2 @@
 # DAW_Final-Project
-Web Apps Development final project. Consist in simulate an online store, this time, an online bike store.  
+The final project of Web Application Development consists of creating an online store with some theme, in this case of bicycles. The objective is to comply with usability and utility attributes so that the user experience could be as satisfactory as possible and to understand and be aware that for a website to survive, it must be intuitive, easy to read, have a good functionality, good design and that provides the user with the effectiveness they need to achieve the objective they intend to enter the page. In this way, we ensure that our website is not so easy to forget, is visited frequently and we ensure the success of users within it.
